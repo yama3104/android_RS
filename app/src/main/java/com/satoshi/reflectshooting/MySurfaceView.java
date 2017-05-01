@@ -13,7 +13,6 @@ import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.media.SoundPool;
 import android.os.Build;
-import android.os.Looper;
 import android.util.Log;
 import android.view.Display;
 import android.view.SurfaceHolder;
@@ -28,7 +27,6 @@ import com.google.android.gms.ads.InterstitialAd;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
-import java.util.logging.Handler;
 
 /**
  * Created by Satoshi on 2017/01/05.
